@@ -1,0 +1,2 @@
+(this["webpackJsonpcms-teacher-developh"]=this["webpackJsonpcms-teacher-developh"]||[]).push([[6],{663:function(e,t,n){"use strict";n.r(t);var a=n(375),c=n(1),o=n.n(c),r=n(19),s=Boolean(localStorage.getItem("access_token"));t.default=function(e){var t=e.component,n=Object(a.a)(e,["component"]);return o.a.createElement(r.b,Object.assign({},n,{render:function(e){return!1===s?o.a.createElement(r.a,{to:"/login"}):o.a.createElement(t,e)}}))}}}]);
+//# sourceMappingURL=6.e09913e2.chunk.js.map
