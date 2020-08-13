@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4a7cc63e0f5e10ed3783b5b739d18f0",
+    "revision": "836d4acc3446909126ce2d71a5153950",
     "url": "/cms-teacher-developh/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cms-teacher-developh/static/js/7.b791cc8d.chunk.js"
   },
   {
-    "revision": "1f041d66e2fbafe5c6cb",
-    "url": "/cms-teacher-developh/static/js/8.f08ab917.chunk.js"
+    "revision": "f62965eac94c18ccb9bb",
+    "url": "/cms-teacher-developh/static/js/8.20c05b79.chunk.js"
   },
   {
     "revision": "1cab5cbd6a1bb4fef09f",
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cms-teacher-developh/static/js/main.348a073b.chunk.js"
   },
   {
-    "revision": "26c3e70a5209e1c22480",
-    "url": "/cms-teacher-developh/static/js/runtime-main.06fec38b.js"
+    "revision": "15796cfc42161a795d52",
+    "url": "/cms-teacher-developh/static/js/runtime-main.332ed49e.js"
   }
 ]);
